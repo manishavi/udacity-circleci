@@ -1,0 +1,6 @@
+com/udacity/jpnd/services/UserServiceMockitoTest.class
+com/udacity/jpnd/AppTest.class
+com/udacity/jpnd/services/PersistentSalesServiceTest.class
+com/udacity/jpnd/services/FizzBuzzServiceTest.class
+com/udacity/jpnd/services/UserServiceImplTest.class
+com/udacity/jpnd/services/ExternalSalesServiceTest.class
